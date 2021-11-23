@@ -13,3 +13,5 @@ Cumulative Data Fraction
 
 •	X-Axis is the Percentile for example, a cumulative data fraction of 0.1 equates to the top decile, or the 10% of records with the highest scores.
 
+
+
